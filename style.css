@@ -1,3 +1,12 @@
-.border_a{
+/* .border_a{
     border: 20px solid red;
+} */
+
+.opa-City{
+    opacity: .7;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.rafi{
+    margin-bottom: 60px !important;
 }
